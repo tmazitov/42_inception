@@ -1,0 +1,8 @@
+*/.env
+.DS_Store
+../.DS_Store
+/srcs/.DS_Store
+/srcs/requirements/.DS_Store
+/srcs/requirements/mariadb/.DS_Store
+/srcs/requirements/nginx/.DS_Store
+/srcs/requirements/wordpress/.DS_Store
