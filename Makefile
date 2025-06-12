@@ -1,5 +1,5 @@
 name = inception
-compose = name=$(name) docker compose -f ./srcs/docker-compose.yml
+compose = name=$(name) docker-compose -f ./srcs/docker-compose.yml
 
 all:
 	@printf "Launch configuration ${name}...\n"
